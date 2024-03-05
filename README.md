@@ -1,2 +1,2 @@
 # MarketAnalyzerBeta
-Unstructued Google Colab Playground for testing stock market analysis
+Beta version of stock market analyzer using demo trading accounts for testing ideas, ML models, and signal functions
